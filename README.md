@@ -69,6 +69,3 @@ Create a new branch again from the main. Wait untill you get the go-ahead from t
 
 ## Exersice 6: Dealing with Hubert's mistakes
 Now go to the branch `git123-Hupert`. Hupert has made some changes but he also added the one of our API keys to ther repository. Your task is to remove the API key without editing the other file he committed after the API key (Please note that copy-pasting the other file is not permitted).
-
-## Exersice 7: A migration to GitLab
-Now as last exercise. Our board has decided that we will move to GitLab, because they are €0.03 cheaper. So your next task is to create a copy of this repository in your own GitLab account. Without using the import functions of course.
