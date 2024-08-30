@@ -67,8 +67,8 @@ Now create a new branch with the format `git2<random 3 letters>-<your_name>` and
 ## Exersice 5: Dealing with conflicts
 Create a new branch again from the main. Wait untill you get the go-ahead from the trainer. Now add your name to the end and create a PR. Merge it in.
 
-## Exersice 6: Dealing with Hubert's mistakes
-Now go to the branch `git123-Hupert`. Hupert has made some changes but he also added the one of our API keys to ther repository. Your task is to remove the API key without editing the other file he committed after the API key (Please note that copy-pasting the other file is not permitted).
+## Exersice 6: Just pushed the wrong file
+You just pushed a file that should not be pushed. It's the 'model.pkl' file in the `git122-missedt` branch. Go to the brnach and remove the last commit (please don't push your changes).
 
-## Exersice 7: A migration to GitLab
-Now as last exercise. Our board has decided that we will move to GitLab, because they are €0.03 cheaper. So your next task is to create a copy of this repository in your own GitLab account. Without using the import functions of course.
+## Exersice 7: Dealing with Hubert's mistakes
+Now go to the branch `git123-Hupert`. Hupert has made some changes but he also added the one of our API keys to ther repository. Your task is to remove the API key without editing the other file he committed after the API key (Please note that copy-pasting the other file is not permitted).
