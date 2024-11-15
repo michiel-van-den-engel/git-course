@@ -2,3 +2,5 @@ Sometimes life is hard. Please add your name:
 * Michiel 
 * extra person
 * Julia
+* Thomas
+
